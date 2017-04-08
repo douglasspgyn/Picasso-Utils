@@ -6,4 +6,6 @@ Code sample with some possibilities that Picasso can provide.
 - Transformation
   - Transform images (crop, blur, etc) without using ```new Target()``` because Picasso have a weak reference with Target and, sometimes, the Garbage Collector collects the object before set the modification;
 
+
+###### You can try the default example or put your own links and test.
 ![](https://media.giphy.com/media/xUPGcHc1B68yn8h8u4/giphy.gif) 
