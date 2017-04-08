@@ -18,10 +18,9 @@
 
         <ImageView
             android:id="@+id/image"
-            android:layout_width="128dp"
-            android:layout_height="128dp"
+            android:layout_width="256dp"
+            android:layout_height="256dp"
             android:layout_centerHorizontal="true"
-            android:layout_margin="16dp"
             android:contentDescription="@string/content_description_low_to_high"
             android:src="@drawable/ic_image_black_24dp" />
 
