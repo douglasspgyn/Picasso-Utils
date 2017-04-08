@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Picasso Utils</string>
+
+    <string name="low_quality_url">Low Quality URL</string>
+    <string name="high_quality_url">High Quality URL</string>
+    <string name="leave_empty_to_default_test">Leave empty to get the default test</string>
+    <string name="load_images">Load Images</string>
+
+    <string name="content_description_low_to_high">Image that will load low quality before high quality</string>
+    <string name="content_description_blured_background">Background image that will be blured</string>
+</resources>
